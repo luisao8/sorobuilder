@@ -130,11 +130,10 @@ This project is licensed under the MIT License.
 For support, please:
 - Open an issue in the GitHub repository
 - Contact the development team
-- Check the [Wiki](wiki) for additional documentation
 
 ## Acknowledgments
 
 - OpenAI for their Assistant API
 - Firebase for backend infrastructure
 - Pusher for real-time communications
-- The open-source community
+
